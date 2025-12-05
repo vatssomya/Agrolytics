@@ -73,13 +73,4 @@ Please ensure both `.sav` files are placed in the **same directory** as your pro
 
 ---
 
-## 🤝 Contributing
 
-Wanna contribute or add new crops/models? Fork this repo and start building! PRs are welcome 💚
-
----
-
-## ✨ Author
-
-*Somya Vats*  
-*Tanisha Kathpal*
