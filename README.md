@@ -66,6 +66,8 @@ To run the **Yield Prediction** and **Crop Recommendation** features, you will n
 
 - 📂 [Download final_model_yield.sav (Yield Prediction)](https://drive.google.com/file/d/1lG1TkrWJH60k68rsM_iEZrvEStv9Fnmy/view?usp=drive_link)
 - 📂 [Download final_model_recommendation.sav (Crop Recommendation)](https://drive.google.com/file/d/18zL8hXCb-NvpfwljKIcYIZAIUkDxwMPf/view?usp=drive_link)
+- Crop Yield = https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset?select=yield_df.csv
+- Crop Recommendation - https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
 Please ensure both `.sav` files are placed in the **same directory** as your project for everything to work correctly.
 
